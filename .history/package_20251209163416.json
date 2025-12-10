@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-sender",
+  "version": "1.0.0",
+  "description": "WhatsApp sender for PDF page counter results",
+  "main": "whatsapp-sender.js",
+  "scripts": {
+    "start": "node whatsapp-sender.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.32.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "keywords": ["whatsapp", "automation"],
+  "author": "",
+  "license": "ISC"
+}
+

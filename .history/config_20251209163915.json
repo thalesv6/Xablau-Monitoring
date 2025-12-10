@@ -1,0 +1,11 @@
+{
+  "whatsapp": {
+    "type": "group",
+    "target": "XABLAU UPDATES",
+    "enabled": true
+  },
+  "message": {
+    "timeout": 30000
+  }
+}
+

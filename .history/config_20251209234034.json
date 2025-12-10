@@ -1,0 +1,16 @@
+{
+  "whatsapp": {
+    "type": "group",
+    "target": "XABLAU UPDATES",
+    "enabled": true
+  },
+  "message": {
+    "timeout": 30000
+  },
+  "monitor": {
+    "delay_seconds": 30,
+    "watch_path": "G:/My Drive/XABLAU/",
+    "enabled": true
+  }
+}
+
