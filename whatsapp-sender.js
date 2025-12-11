@@ -44,6 +44,26 @@ client.on("qr", (qr) => {
   qrcode.generate(qr, { small: true });
 });
 
+let messageWasSent = false;
+let messageAcked = false;
+
+async function waitForAck(messageId, timeoutMs = 20000) {
+  return new Promise((resolve) => {
+    const timer = setTimeout(() => resolve(false), timeoutMs);
+
+    const handler = (msg, ack) => {
+      if (msg.id && msg.id._serialized === messageId) {
+        messageAcked = ack >= 1;
+        clearTimeout(timer);
+        client.removeListener("message_ack", handler);
+        resolve(true);
+      }
+    };
+
+    client.on("message_ack", handler);
+  });
+}
+
 // Ready event
 client.on("ready", async () => {
   console.log("WhatsApp connected!");
@@ -72,12 +92,12 @@ client.on("ready", async () => {
         groups.forEach((g) =>
           console.log(`  - ${g.name} (${g.id._serialized})`)
         );
-        await client.destroy();
+        await client.destroy().catch(() => {});
         process.exit(1);
       }
 
       chatId = group.id._serialized;
-      console.log(`Sending message to group: ${group.name}`);
+      console.log(`Sending message to group: ${group.name} (id: ${chatId})`);
     } else {
       // Send to individual contact
       // Format: 5511999999999@c.us (country code + number + @c.us)
@@ -92,16 +112,29 @@ client.on("ready", async () => {
     }
 
     // Send message
-    await client.sendMessage(chatId, message);
-    console.log("Message sent successfully!");
+    const sent = await client.sendMessage(chatId, message);
+    messageWasSent = true;
+    console.log(
+      `Message sent successfully! msgId: ${sent.id._serialized} chatId: ${chatId}`
+    );
+
+    // Aguarda ACK de entrega/servidor (ack >= 1) ou timeout
+    const ackReceived = await waitForAck(sent.id._serialized);
+    console.log(
+      ackReceived
+        ? "Ack de entrega recebido (pelo menos chegou ao servidor)."
+        : "Ack não recebido dentro do timeout; pode ter falhado."
+    );
 
     // Wait a bit before closing
     await new Promise((resolve) => setTimeout(resolve, 1000));
-    await client.destroy();
+    await client.destroy().catch((err) => {
+      console.error("Error destroying client (ignored):", err?.message || err);
+    });
     process.exit(0);
   } catch (error) {
     console.error("Error sending message:", error.message);
-    await client.destroy();
+    await client.destroy().catch(() => {});
     process.exit(1);
   }
 });
@@ -115,7 +148,16 @@ client.on("auth_failure", (msg) => {
 // Disconnected
 client.on("disconnected", (reason) => {
   console.log("WhatsApp disconnected:", reason);
-  process.exit(1);
+  // If já enviamos, saímos com sucesso; caso contrário, erro
+  process.exit(messageWasSent ? 0 : 1);
+});
+
+// Evita que erros de fechamento do navegador quebrem após envio bem-sucedido
+process.on("unhandledRejection", (err) => {
+  const msg =
+    (err && err.message) || (err && err.toString()) || "Unknown rejection";
+  console.error("Unhandled rejection:", msg);
+  process.exit(messageWasSent || messageAcked ? 0 : 1);
 });
 
 // Initialize client

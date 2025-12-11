@@ -82,10 +82,16 @@ def count_pages_by_folder_optimized(root_directory=None):
                     config = json.load(f)
                     root_directory = config.get('monitor', {}).get('watch_path', 'G:/My Drive/XABLAU/')
             except Exception as e:
-                print(f"Error reading config.json: {e}. Using default path.")
+                log_message(f"Error reading config.json: {e}. Using default path.")
                 root_directory = 'G:/My Drive/XABLAU/'
         else:
             root_directory = 'G:/My Drive/XABLAU/'
+    
+    log_message(f"📂 Pasta raiz configurada para contagem: {root_directory}")
+    if not os.path.exists(root_directory):
+        log_message(f"❌ Pasta raiz não existe: {root_directory}")
+        return {}, {}
+
     folder_pages_normal = {}
     folder_pages_victoria = {}
     
@@ -94,6 +100,7 @@ def count_pages_by_folder_optimized(root_directory=None):
         item for item in os.listdir(root_directory)
         if os.path.isdir(os.path.join(root_directory, item)) and item[:1].isdigit()
     ]
+    log_message(f"📁 Pastas detectadas para contagem: {len(root_folders)}")
 
     # Separate normal targets and VICTORIA targets
     targets_normal = []
@@ -125,6 +132,7 @@ def count_pages_by_folder_optimized(root_directory=None):
             future_to_label = {}
             
             for label, folder_path in targets_normal:
+                log_message(f"🔎 Iniciando contagem da pasta: {label} ({folder_path})")
                 future = executor.submit(count_pages_in_directory_parallel, folder_path)
                 future_to_label[future] = label
             
@@ -134,8 +142,9 @@ def count_pages_by_folder_optimized(root_directory=None):
                 try:
                     pages = future.result()
                     folder_pages_normal[label] = pages
+                    log_message(f"✅ Contagem concluída: {label} -> {pages} páginas")
                 except Exception as e:
-                    print(f"Error processing folder {label}: {e}")
+                    log_message(f"Error processing folder {label}: {e}")
                     folder_pages_normal[label] = 0
     
     # Process VICTORIA folders in parallel
@@ -144,6 +153,7 @@ def count_pages_by_folder_optimized(root_directory=None):
             future_to_label = {}
             
             for label, folder_path in targets_victoria:
+                log_message(f"🔎 Iniciando contagem da pasta VICTORIA: {label} ({folder_path})")
                 future = executor.submit(count_pages_in_directory_parallel, folder_path)
                 future_to_label[future] = label
             
@@ -153,8 +163,9 @@ def count_pages_by_folder_optimized(root_directory=None):
                 try:
                     pages = future.result()
                     folder_pages_victoria[label] = pages
+                    log_message(f"✅ Contagem VICTORIA concluída: {label} -> {pages} páginas")
                 except Exception as e:
-                    print(f"Error processing folder {label}: {e}")
+                    log_message(f"Error processing folder {label}: {e}")
                     folder_pages_victoria[label] = 0
     
     return folder_pages_normal, folder_pages_victoria
@@ -190,6 +201,27 @@ def get_last_message_file_path():
     """
     script_dir = os.path.dirname(os.path.abspath(__file__))
     return os.path.join(script_dir, '.last_message.json')
+
+def get_log_file_path():
+    """
+    Returns the path for the execution log file
+    """
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    return os.path.join(script_dir, 'pagecounter.log')
+
+def log_message(message):
+    """
+    Appends a timestamped line to the log file and prints it
+    """
+    try:
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        line = f"[{timestamp}] {message}"
+        print(message)
+        with open(get_log_file_path(), 'a', encoding='utf-8') as f:
+            f.write(line + "\n")
+    except Exception as e:
+        # Fallback to console only if logging fails
+        print(f"Logging failed: {e}")
 
 def acquire_lock():
     """
@@ -499,22 +531,27 @@ def send_whatsapp_message(message, check_cooldown=True):
     if check_cooldown:
         should_send, reason = should_send_message(message)
         if not should_send:
-            print(f"⏭️ Skipping WhatsApp message: {reason}")
+            log_message(f"⏭️ Skipping WhatsApp message: {reason}")
             return False
+        else:
+            log_message(f"✅ Mensagem liberada para envio: {reason}")
     
     try:
         # Read config to check if WhatsApp is enabled
         config_path = os.path.join(os.path.dirname(__file__), 'config.json')
         if not os.path.exists(config_path):
-            print("config.json file not found. Skipping WhatsApp sending.")
+            log_message("config.json file not found. Skipping WhatsApp sending.")
             return False
         
         with open(config_path, 'r', encoding='utf-8') as f:
             config = json.load(f)
         
         if not config.get('whatsapp', {}).get('enabled', False):
-            print("WhatsApp sending disabled in config.json")
+            log_message("WhatsApp sending disabled in config.json")
             return False
+        
+        whatsapp_cfg = config.get('whatsapp', {})
+        log_message(f"📨 Destino WhatsApp: tipo={whatsapp_cfg.get('type')} alvo={whatsapp_cfg.get('target')}")
         
         # Get path to Node.js script
         script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -526,30 +563,41 @@ def send_whatsapp_message(message, check_cooldown=True):
         
         # Call Node.js script with message as argument
         # For Windows compatibility, pass message directly as list item
-        print("\nSending results to WhatsApp...")
+        log_message("Enviando resultados para WhatsApp...")
+        log_message(f"ℹ️ Tamanho da mensagem: {len(message)} caracteres")
         
         # Pass message as separate argument to avoid shell escaping issues
         cmd = ['node', node_script, message]
+
+        # Evita abrir janela do Node no Windows quando rodando em background
+        creationflags = 0
+        if os.name == 'nt':
+            creationflags = subprocess.CREATE_NO_WINDOW
         
         result = subprocess.run(
             cmd,
             cwd=script_dir,
             capture_output=True,
             text=True,
-            timeout=120
+            timeout=120,
+            creationflags=creationflags
         )
         
         if result.returncode == 0:
-            print("Message sent successfully to WhatsApp!")
+            log_message("Message sent successfully to WhatsApp!")
+            if result.stdout:
+                log_message(f"ℹ️ Saída do envio: {result.stdout.strip()}")
             # Save last message info
             save_last_message(message)
             return True
         else:
-            print(f"Error sending message: {result.stderr}")
+            log_message(f"Error sending message: {result.stderr}")
+            if result.stdout:
+                log_message(f"Saída do script: {result.stdout.strip()}")
             return False
             
     except FileNotFoundError:
-        print("Node.js not found. Make sure Node.js is installed.")
+        log_message("Node.js not found. Make sure Node.js is installed.")
         return False
     except subprocess.TimeoutExpired:
         print("Timeout sending WhatsApp message.")
@@ -567,7 +615,7 @@ def main():
     try:
         start_time = time.time()
         
-        print("Starting page count...")
+        log_message("Starting page count...")
         print("="*50)
         
         # Load previous results for comparison
