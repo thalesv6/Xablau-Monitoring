@@ -169,6 +169,28 @@ def main():
     print(f"⏱️  Delay: {delay_seconds} segundos")
     print(f"📄 Script: {script_path}")
     print("="*50)
+    
+    # Initial state check when starting the monitor
+    print("\n🔍 Verificando estado inicial da pasta...")
+    print("="*50)
+    try:
+        script_dir = os.path.dirname(os.path.abspath(script_path))
+        result = subprocess.run(
+            [sys.executable, script_path],
+            cwd=script_dir,
+            capture_output=False,
+            text=True
+        )
+        
+        if result.returncode == 0:
+            print("\n✅ Verificação inicial concluída!")
+            print("ℹ️  Se não houver mudanças desde a última execução, nenhuma mensagem será enviada.")
+        else:
+            print(f"\n⚠️  Verificação inicial concluída com avisos (código: {result.returncode})")
+    except Exception as e:
+        print(f"\n❌ Erro na verificação inicial: {e}")
+    
+    print("\n" + "="*50)
     print("👀 Monitorando pasta... (Pressione Ctrl+C para parar)")
     print("="*50 + "\n")
     
