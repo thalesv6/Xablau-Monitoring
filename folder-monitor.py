@@ -60,7 +60,9 @@ class PDFChangeHandler(FileSystemEventHandler):
                 [sys.executable, self.script_path],
                 cwd=script_dir,
                 capture_output=False,
-                text=True
+                text=True,
+                encoding='utf-8',
+                errors='replace'
             )
             
             if result.returncode == 0:
@@ -179,7 +181,9 @@ def main():
             [sys.executable, script_path],
             cwd=script_dir,
             capture_output=False,
-            text=True
+            text=True,
+            encoding='utf-8',
+            errors='replace'
         )
         
         if result.returncode == 0:

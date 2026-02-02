@@ -2,6 +2,7 @@ import os
 import time
 import json
 import subprocess
+import argparse
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from PyPDF2 import PdfReader
@@ -522,19 +523,22 @@ def format_whatsapp_message(folder_pages_normal, folder_pages_victoria, total_pa
     
     return message
 
-def send_whatsapp_message(message, check_cooldown=True):
+def send_whatsapp_message(message, check_cooldown=True, force=False):
     """
     Sends message via WhatsApp using the Node.js script
     check_cooldown: If True, checks cooldown and message content before sending
+    force: If True, ignores cooldown and duplicate message checks (for testing)
     """
     # Check if we should send the message
-    if check_cooldown:
+    if check_cooldown and not force:
         should_send, reason = should_send_message(message)
         if not should_send:
             log_message(f"⏭️ Skipping WhatsApp message: {reason}")
             return False
         else:
             log_message(f"✅ Mensagem liberada para envio: {reason}")
+    elif force:
+        log_message("🔧 Modo FORCE ativado: ignorando verificação de cooldown e mensagem repetida")
     
     try:
         # Read config to check if WhatsApp is enabled
@@ -552,6 +556,14 @@ def send_whatsapp_message(message, check_cooldown=True):
         
         whatsapp_cfg = config.get('whatsapp', {})
         log_message(f"📨 Destino WhatsApp: tipo={whatsapp_cfg.get('type')} alvo={whatsapp_cfg.get('target')}")
+        
+        # Get timeout from config (in milliseconds, convert to seconds)
+        # Add extra time for initialization (60s) + message timeout + buffer (30s)
+        message_timeout_ms = config.get('message', {}).get('timeout', 30000)
+        message_timeout_seconds = message_timeout_ms / 1000
+        # Total timeout: initialization (60s) + message timeout + ACK wait (20s) + buffer (30s)
+        total_timeout = 60 + message_timeout_seconds + 20 + 30
+        log_message(f"⏱️ Timeout configurado: {total_timeout:.0f}s (inicialização: 60s + mensagem: {message_timeout_seconds:.0f}s + ACK: 20s + buffer: 30s)")
         
         # Get path to Node.js script
         script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -574,39 +586,60 @@ def send_whatsapp_message(message, check_cooldown=True):
         if os.name == 'nt':
             creationflags = subprocess.CREATE_NO_WINDOW
         
-        result = subprocess.run(
-            cmd,
-            cwd=script_dir,
-            capture_output=True,
-            text=True,
-            timeout=120,
-            creationflags=creationflags
-        )
+        start_time = time.time()
+        try:
+            result = subprocess.run(
+                cmd,
+                cwd=script_dir,
+                capture_output=True,
+                text=True,
+                encoding='utf-8',
+                errors='replace',
+                timeout=total_timeout,
+                creationflags=creationflags
+            )
+            elapsed_time = time.time() - start_time
+            log_message(f"⏱️ Tempo de execução do WhatsApp: {elapsed_time:.2f}s")
+        except subprocess.TimeoutExpired as e:
+            elapsed_time = time.time() - start_time
+            log_message(f"❌ Timeout ao enviar mensagem WhatsApp após {elapsed_time:.2f}s (limite: {total_timeout:.0f}s)")
+            log_message("⚠️ Possíveis causas: WhatsApp Web desconectado, necessidade de reautenticação, ou conexão lenta")
+            return False
         
         if result.returncode == 0:
-            log_message("Message sent successfully to WhatsApp!")
+            log_message("✅ Message sent successfully to WhatsApp!")
             if result.stdout:
                 log_message(f"ℹ️ Saída do envio: {result.stdout.strip()}")
             # Save last message info
             save_last_message(message)
             return True
         else:
-            log_message(f"Error sending message: {result.stderr}")
+            log_message(f"❌ Error sending message (código: {result.returncode})")
+            if result.stderr:
+                log_message(f"❌ Erro: {result.stderr.strip()}")
             if result.stdout:
-                log_message(f"Saída do script: {result.stdout.strip()}")
+                log_message(f"ℹ️ Saída do script: {result.stdout.strip()}")
             return False
             
     except FileNotFoundError:
-        log_message("Node.js not found. Make sure Node.js is installed.")
-        return False
-    except subprocess.TimeoutExpired:
-        print("Timeout sending WhatsApp message.")
+        log_message("❌ Node.js not found. Make sure Node.js is installed.")
         return False
     except Exception as e:
-        print(f"Error sending WhatsApp message: {e}")
+        log_message(f"❌ Error sending WhatsApp message: {e}")
         return False
 
 def main():
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(
+        description='Count PDF pages in folders and send results via WhatsApp'
+    )
+    parser.add_argument(
+        '--force',
+        action='store_true',
+        help='Force send WhatsApp message even if it\'s a duplicate or cooldown is active (for testing)'
+    )
+    args = parser.parse_args()
+    
     # Acquire lock to prevent concurrent executions
     lock_file = acquire_lock()
     if not lock_file:
@@ -616,6 +649,8 @@ def main():
         start_time = time.time()
         
         log_message("Starting page count...")
+        if args.force:
+            log_message("🔧 Modo FORCE ativado via linha de comando")
         print("="*50)
         
         # Load previous results for comparison
@@ -714,17 +749,19 @@ def main():
         
         # Send results to WhatsApp only if there are changes or it's the first run
         if folder_pages_normal or folder_pages_victoria:
-            # Only send if there are actual changes or it's the first execution
-            if changes_normal or changes_victoria or not previous_data:
+            # Only send if there are actual changes, it's the first execution, or force flag is set
+            if changes_normal or changes_victoria or not previous_data or args.force:
                 current_datetime = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
                 previous_timestamp = previous_data.get('timestamp') if previous_data else None
                 message = format_whatsapp_message(
                     folder_pages_normal, folder_pages_victoria, total_pages_before_victoria,
                     changes_normal, changes_victoria, current_datetime, previous_timestamp
                 )
-                send_whatsapp_message(message)
+                send_whatsapp_message(message, force=args.force)
             else:
                 print("\n⏭️ No changes detected. Skipping WhatsApp message.")
+                if args.force:
+                    print("💡 Dica: Use --force para enviar mesmo sem mudanças")
     finally:
         # Always release lock
         release_lock(lock_file)

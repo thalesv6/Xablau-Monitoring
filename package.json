@@ -4,14 +4,17 @@
   "description": "WhatsApp sender for PDF page counter results",
   "main": "whatsapp-sender.js",
   "scripts": {
-    "start": "node whatsapp-sender.js"
+    "start": "node whatsapp-sender.js",
+    "test": "node whatsapp-sender.js \"Teste do WhatsApp sender\""
   },
   "dependencies": {
-    "whatsapp-web.js": "^1.3.0",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js"
   },
-  "keywords": ["whatsapp", "automation"],
+  "keywords": [
+    "whatsapp",
+    "automation"
+  ],
   "author": "",
   "license": "GPL-3.0"
 }
-

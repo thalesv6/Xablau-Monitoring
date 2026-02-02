@@ -10,7 +10,7 @@
   },
   "monitor": {
     "delay_seconds": 120,
-    "watch_path": "G:/My Drive/XABLAU/",
+    "watch_path": "H:/My Drive/XABLAU/",
     "enabled": true
   }
 }
