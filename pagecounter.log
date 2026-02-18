@@ -5910,3 +5910,1665 @@ Message sent successfully! msgId: true_120363421676358028@g.us_3EB06FE7858AEE095
 Waiting for delivery ACK...
 Ack de entrega recebido (pelo menos chegou ao servidor). (took 214ms)
 Total WhatsApp operation time: 761ms
+[2026-02-02 13:07:50] Starting page count...
+[2026-02-02 13:07:50] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-02 13:07:50] 📁 Pastas detectadas para contagem: 9
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-02 13:07:50] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-02 13:07:50] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-02 13:07:55] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-02 13:07:58] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-02 13:08:19] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-02 13:08:23] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-02 13:08:50] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-02 13:08:53] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-02 13:08:53] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-02 13:08:53] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-02 13:08:53] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-02 13:09:18] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 5202 páginas
+[2026-02-02 13:10:06] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 29051 páginas
+[2026-02-03 10:00:54] Starting page count...
+[2026-02-03 10:00:54] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-03 10:00:54] 📁 Pastas detectadas para contagem: 9
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-03 10:00:54] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-03 10:00:54] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-03 10:00:59] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-03 10:01:02] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-03 10:01:24] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-03 10:01:28] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-03 10:01:54] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-03 10:01:56] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-03 10:01:56] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-03 10:01:56] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-03 10:01:56] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-03 10:02:17] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 5202 páginas
+[2026-02-03 10:03:07] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 29051 páginas
+[2026-02-03 20:27:30] Starting page count...
+[2026-02-03 20:27:31] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-03 20:27:31] 📁 Pastas detectadas para contagem: 9
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-03 20:27:31] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-03 20:27:31] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-03 20:27:37] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-03 20:27:40] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-03 20:28:02] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-03 20:28:07] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-03 20:28:34] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-03 20:28:37] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-03 20:28:37] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-03 20:28:37] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-03 20:28:37] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-03 20:28:55] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 4510 páginas
+[2026-02-03 20:29:54] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 29743 páginas
+[2026-02-03 20:29:54] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-03 20:29:54] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-03 20:29:54] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-03 20:29:54] Enviando resultados para WhatsApp...
+[2026-02-03 20:29:54] ℹ️ Tamanho da mensagem: 511 caracteres
+[2026-02-03 20:30:19] ⏱️ Tempo de execução do WhatsApp: 24.50s
+[2026-02-03 20:30:19] ✅ Message sent successfully to WhatsApp!
+[2026-02-03 20:30:19] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+⏳ Ainda inicializando... (10s decorridos)
+✅ WhatsApp connected! (inicialização levou 11399ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (517 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB061A73A2FFF4739DDFE_174462209097938@lid chatId: 120363421676358028@g.us (took 2399ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 318ms)
+Total WhatsApp operation time: 2722ms
+[2026-02-03 20:52:26] Starting page count...
+[2026-02-03 20:52:26] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-03 20:52:26] 📁 Pastas detectadas para contagem: 9
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-03 20:52:26] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-03 20:52:26] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-03 20:52:31] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-03 20:52:35] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-03 20:52:47] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-03 20:52:49] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-03 20:52:56] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-03 20:52:57] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-03 20:52:57] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-03 20:52:57] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-03 20:52:57] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-03 20:53:02] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 3441 páginas
+[2026-02-03 20:53:24] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 30812 páginas
+[2026-02-03 20:53:24] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-03 20:53:24] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-03 20:53:24] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-03 20:53:24] Enviando resultados para WhatsApp...
+[2026-02-03 20:53:24] ℹ️ Tamanho da mensagem: 513 caracteres
+[2026-02-03 20:53:41] ⏱️ Tempo de execução do WhatsApp: 16.35s
+[2026-02-03 20:53:41] ✅ Message sent successfully to WhatsApp!
+[2026-02-03 20:53:41] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3402ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (519 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0373A2C24A2679A729D_174462209097938@lid chatId: 120363421676358028@g.us (took 2428ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 217ms)
+Total WhatsApp operation time: 2649ms
+[2026-02-03 21:10:52] Starting page count...
+[2026-02-03 21:10:52] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-03 21:10:52] 📁 Pastas detectadas para contagem: 9
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-03 21:10:52] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-03 21:10:52] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-03 21:10:53] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-03 21:10:54] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-03 21:10:59] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-03 21:11:01] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-03 21:11:07] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-03 21:11:08] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-03 21:11:08] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-03 21:11:08] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-03 21:11:08] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-03 21:11:11] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 2370 páginas
+[2026-02-03 21:11:35] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 31883 páginas
+[2026-02-03 21:11:35] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-03 21:11:35] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-03 21:11:35] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-03 21:11:35] Enviando resultados para WhatsApp...
+[2026-02-03 21:11:35] ℹ️ Tamanho da mensagem: 513 caracteres
+[2026-02-03 21:11:50] ⏱️ Tempo de execução do WhatsApp: 14.88s
+[2026-02-03 21:11:50] ✅ Message sent successfully to WhatsApp!
+[2026-02-03 21:11:50] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3715ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (519 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0A39990D39E9EE0603D_174462209097938@lid chatId: 120363421676358028@g.us (took 2138ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 333ms)
+Total WhatsApp operation time: 2476ms
+[2026-02-03 21:44:53] Starting page count...
+[2026-02-03 21:44:53] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-03 21:44:53] 📁 Pastas detectadas para contagem: 9
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-03 21:44:53] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-03 21:44:53] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-03 21:44:54] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-03 21:44:55] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-03 21:45:09] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-03 21:45:13] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-03 21:45:29] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-03 21:45:29] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-03 21:45:29] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-03 21:45:29] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-03 21:45:29] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-03 21:45:32] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 1783 páginas
+[2026-02-03 21:45:56] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 32470 páginas
+[2026-02-03 21:45:56] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-03 21:45:56] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-03 21:45:56] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-03 21:45:56] Enviando resultados para WhatsApp...
+[2026-02-03 21:45:56] ℹ️ Tamanho da mensagem: 511 caracteres
+[2026-02-03 21:46:04] ⏱️ Tempo de execução do WhatsApp: 7.85s
+[2026-02-03 21:46:04] ✅ Message sent successfully to WhatsApp!
+[2026-02-03 21:46:04] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3750ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (517 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0722D5F91056404F888_174462209097938@lid chatId: 120363421676358028@g.us (took 1912ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 277ms)
+Total WhatsApp operation time: 2194ms
+[2026-02-03 22:02:04] Starting page count...
+[2026-02-03 22:02:04] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-03 22:02:04] 📁 Pastas detectadas para contagem: 9
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-03 22:02:04] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-03 22:02:04] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-03 22:02:05] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-03 22:02:06] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-03 22:02:11] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-03 22:02:12] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-03 22:02:18] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-03 22:02:18] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-03 22:02:19] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-03 22:02:19] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-03 22:02:19] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-03 22:02:19] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 348 páginas
+[2026-02-03 22:02:45] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 33905 páginas
+[2026-02-03 22:02:45] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-03 22:02:45] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-03 22:02:45] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-03 22:02:45] Enviando resultados para WhatsApp...
+[2026-02-03 22:02:45] ℹ️ Tamanho da mensagem: 512 caracteres
+[2026-02-03 22:02:52] ⏱️ Tempo de execução do WhatsApp: 7.41s
+[2026-02-03 22:02:52] ✅ Message sent successfully to WhatsApp!
+[2026-02-03 22:02:52] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3708ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (518 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0B62C6028EAAE716447_174462209097938@lid chatId: 120363421676358028@g.us (took 1608ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 219ms)
+Total WhatsApp operation time: 1833ms
+[2026-02-04 11:51:41] Starting page count...
+[2026-02-04 11:51:41] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 11:51:41] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 11:51:41] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 11:51:41] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 11:51:46] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 11:51:49] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 11:52:12] ✅ Contagem concluída: 7.NICO -> 2792 páginas
+[2026-02-04 11:52:18] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-04 11:52:49] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 11:52:52] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-04 11:52:52] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 11:52:52] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 11:52:52] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 11:52:52] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 11:54:04] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 11:54:04] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-04 11:54:04] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-04 11:54:04] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-04 11:54:04] Enviando resultados para WhatsApp...
+[2026-02-04 11:54:04] ℹ️ Tamanho da mensagem: 533 caracteres
+[2026-02-04 11:54:24] ⏱️ Tempo de execução do WhatsApp: 20.31s
+[2026-02-04 11:54:24] ✅ Message sent successfully to WhatsApp!
+[2026-02-04 11:54:24] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 8355ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (539 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0E75ED13459C4EDC64D_174462209097938@lid chatId: 120363421676358028@g.us (took 2918ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 216ms)
+Total WhatsApp operation time: 3138ms
+[2026-02-04 16:24:56] Starting page count...
+[2026-02-04 16:24:56] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 16:24:56] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 16:24:56] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 16:24:56] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 16:25:02] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 16:25:05] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 16:25:28] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 16:25:33] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-04 16:25:57] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 16:26:00] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-04 16:26:00] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 16:26:00] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 16:26:00] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 16:26:00] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 16:27:16] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 16:27:16] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-04 16:27:16] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-04 16:27:16] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-04 16:27:16] Enviando resultados para WhatsApp...
+[2026-02-04 16:27:16] ℹ️ Tamanho da mensagem: 522 caracteres
+[2026-02-04 16:27:32] ⏱️ Tempo de execução do WhatsApp: 15.72s
+[2026-02-04 16:27:32] ✅ Message sent successfully to WhatsApp!
+[2026-02-04 16:27:32] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 4874ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (528 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB09BC5E0C3A240FA1233_174462209097938@lid chatId: 120363421676358028@g.us (took 1976ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 279ms)
+Total WhatsApp operation time: 2260ms
+[2026-02-04 16:46:04] Starting page count...
+[2026-02-04 16:46:04] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 16:46:04] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 16:46:04] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 16:46:04] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 16:46:09] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 16:46:13] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 16:46:39] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 16:46:43] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-04 16:47:09] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 16:47:12] ✅ Contagem concluída: 5.CUSH -> 10575 páginas
+[2026-02-04 16:47:12] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 16:47:12] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 16:47:12] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 16:47:12] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 16:47:41] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 17:12:45] Starting page count...
+[2026-02-04 17:12:45] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 17:12:45] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 17:12:45] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 17:12:45] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 17:12:46] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 17:12:46] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 17:12:51] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 17:12:52] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-04 17:12:57] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 17:12:57] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 17:12:58] ✅ Contagem concluída: 5.CUSH -> 11285 páginas
+[2026-02-04 17:12:58] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 17:12:58] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 17:12:58] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 17:13:21] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 17:13:21] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-04 17:13:21] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-04 17:13:21] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-04 17:13:21] Enviando resultados para WhatsApp...
+[2026-02-04 17:13:21] ℹ️ Tamanho da mensagem: 522 caracteres
+[2026-02-04 17:13:34] ⏱️ Tempo de execução do WhatsApp: 12.79s
+[2026-02-04 17:13:34] ✅ Message sent successfully to WhatsApp!
+[2026-02-04 17:13:34] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3669ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (528 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0FC13AE09F90233380B_174462209097938@lid chatId: 120363421676358028@g.us (took 1925ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 245ms)
+Total WhatsApp operation time: 2181ms
+[2026-02-04 17:16:41] Starting page count...
+[2026-02-04 17:16:41] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 17:16:41] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 17:16:41] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 17:16:41] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 17:16:42] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 17:16:43] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 17:16:48] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 17:16:48] ✅ Contagem concluída: 8.JACQUES -> 762 páginas
+[2026-02-04 17:16:53] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 17:16:54] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 17:16:54] ✅ Contagem concluída: 5.CUSH -> 11285 páginas
+[2026-02-04 17:16:54] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 17:16:54] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 17:16:54] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 17:17:17] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 18:14:22] Starting page count...
+[2026-02-04 18:14:22] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 18:14:22] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 18:14:22] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 18:14:22] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 18:14:23] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 18:14:23] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 18:14:28] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 18:14:29] ✅ Contagem concluída: 8.JACQUES -> 1261 páginas
+[2026-02-04 18:14:33] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 18:14:34] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 18:14:35] ✅ Contagem concluída: 5.CUSH -> 11285 páginas
+[2026-02-04 18:14:35] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 18:14:35] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 18:14:35] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 18:14:56] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 18:14:56] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-04 18:14:56] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-04 18:14:56] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-04 18:14:56] Enviando resultados para WhatsApp...
+[2026-02-04 18:14:56] ℹ️ Tamanho da mensagem: 526 caracteres
+[2026-02-04 18:15:02] ⏱️ Tempo de execução do WhatsApp: 6.17s
+[2026-02-04 18:15:02] ✅ Message sent successfully to WhatsApp!
+[2026-02-04 18:15:02] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 2769ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (532 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB09BE63DA13FB31C9DFD_174462209097938@lid chatId: 120363421676358028@g.us (took 1672ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 211ms)
+Total WhatsApp operation time: 1887ms
+[2026-02-04 18:18:13] Starting page count...
+[2026-02-04 18:18:13] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 18:18:13] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 18:18:13] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 18:18:13] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 18:18:14] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 18:18:15] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 18:18:19] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 18:18:21] ✅ Contagem concluída: 8.JACQUES -> 1314 páginas
+[2026-02-04 18:18:25] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 18:18:25] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 18:18:26] ✅ Contagem concluída: 5.CUSH -> 11285 páginas
+[2026-02-04 18:18:26] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 18:18:26] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 18:18:26] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 18:18:47] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 18:18:47] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-04 18:18:47] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-04 18:18:47] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-04 18:18:47] Enviando resultados para WhatsApp...
+[2026-02-04 18:18:47] ℹ️ Tamanho da mensagem: 524 caracteres
+[2026-02-04 18:18:53] ⏱️ Tempo de execução do WhatsApp: 5.58s
+[2026-02-04 18:18:53] ✅ Message sent successfully to WhatsApp!
+[2026-02-04 18:18:53] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 2581ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (530 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB068D8886437CFD3D498_174462209097938@lid chatId: 120363421676358028@g.us (took 1287ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 209ms)
+Total WhatsApp operation time: 1500ms
+[2026-02-04 18:23:59] Starting page count...
+[2026-02-04 18:23:59] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 18:23:59] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 18:23:59] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 18:23:59] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 18:24:00] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 18:24:00] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 18:24:05] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 18:24:07] ✅ Contagem concluída: 8.JACQUES -> 1314 páginas
+[2026-02-04 18:24:10] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 18:24:11] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 18:24:12] ✅ Contagem concluída: 5.CUSH -> 11285 páginas
+[2026-02-04 18:24:12] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 18:24:12] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 18:24:12] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 18:24:33] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 18:42:12] Starting page count...
+[2026-02-04 18:42:12] 📂 Pasta raiz configurada para contagem: H:/My Drive/XABLAU/
+[2026-02-04 18:42:12] 📁 Pastas detectadas para contagem: 9
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 3.BRUNO (H:/My Drive/XABLAU/3.BRUNO)
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 1.LEIANES (H:/My Drive/XABLAU/1.LEIANES)
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 2.EROS (H:/My Drive/XABLAU/2.EROS)
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 4.MAYA (H:/My Drive/XABLAU/4.MAYA)
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 5.CUSH (H:/My Drive/XABLAU/5.CUSH)
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 6.ELIS (H:/My Drive/XABLAU/6.ELIS)
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 7.NICO (H:/My Drive/XABLAU/7.NICO)
+[2026-02-04 18:42:12] 🔎 Iniciando contagem da pasta: 8.JACQUES (H:/My Drive/XABLAU/8.JACQUES)
+[2026-02-04 18:42:12] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-04 18:42:13] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-04 18:42:13] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-04 18:42:18] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-04 18:42:20] ✅ Contagem concluída: 8.JACQUES -> 1906 páginas
+[2026-02-04 18:42:24] ✅ Contagem concluída: 3.BRUNO -> 9291 páginas
+[2026-02-04 18:42:24] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-04 18:42:25] ✅ Contagem concluída: 5.CUSH -> 11285 páginas
+[2026-02-04 18:42:25] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (H:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-04 18:42:25] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (H:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-04 18:42:25] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-04 18:42:47] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 34822 páginas
+[2026-02-04 18:42:47] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-04 18:42:47] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-04 18:42:47] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-04 18:42:47] Enviando resultados para WhatsApp...
+[2026-02-04 18:42:47] ℹ️ Tamanho da mensagem: 526 caracteres
+[2026-02-04 18:42:53] ⏱️ Tempo de execução do WhatsApp: 6.83s
+[2026-02-04 18:42:53] ✅ Message sent successfully to WhatsApp!
+[2026-02-04 18:42:53] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 2546ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (532 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB00E5D353F3DBCA2A2E3_174462209097938@lid chatId: 120363421676358028@g.us (took 2531ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 261ms)
+Total WhatsApp operation time: 2796ms
+[2026-02-05 15:59:01] Starting page count...
+[2026-02-05 15:59:01] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-05 15:59:01] 📁 Pastas detectadas para contagem: 9
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 4.MAYA (G:/My Drive/XABLAU/4.MAYA)
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 5.CUSH (G:/My Drive/XABLAU/5.CUSH)
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 6.ELIS (G:/My Drive/XABLAU/6.ELIS)
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 7.NICO (G:/My Drive/XABLAU/7.NICO)
+[2026-02-05 15:59:01] 🔎 Iniciando contagem da pasta: 8.JACQUES (G:/My Drive/XABLAU/8.JACQUES)
+[2026-02-05 15:59:01] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-05 15:59:07] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-05 15:59:11] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-05 15:59:37] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-05 15:59:52] ✅ Contagem concluída: 8.JACQUES -> 1906 páginas
+[2026-02-05 16:00:16] ✅ Contagem concluída: 3.BRUNO -> 10175 páginas
+[2026-02-05 16:00:16] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-05 16:00:17] ✅ Contagem concluída: 5.CUSH -> 11285 páginas
+[2026-02-05 16:00:17] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-05 16:00:17] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-05 16:00:17] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-05 16:01:44] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 35532 páginas
+[2026-02-05 16:01:44] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-05 16:01:44] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-05 16:01:44] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-05 16:01:44] Enviando resultados para WhatsApp...
+[2026-02-05 16:01:44] ℹ️ Tamanho da mensagem: 557 caracteres
+[2026-02-05 16:01:59] ⏱️ Tempo de execução do WhatsApp: 14.61s
+[2026-02-05 16:01:59] ✅ Message sent successfully to WhatsApp!
+[2026-02-05 16:01:59] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3530ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (563 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0A298BE0C3D5CB6B163_174462209097938@lid chatId: 120363421676358028@g.us (took 2329ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 219ms)
+Total WhatsApp operation time: 2552ms
+[2026-02-06 11:02:42] Starting page count...
+[2026-02-06 11:02:42] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-06 11:02:42] 📁 Pastas detectadas para contagem: 9
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 4.MAYA (G:/My Drive/XABLAU/4.MAYA)
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 5.CUSH (G:/My Drive/XABLAU/5.CUSH)
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 6.ELIS (G:/My Drive/XABLAU/6.ELIS)
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 7.NICO (G:/My Drive/XABLAU/7.NICO)
+[2026-02-06 11:02:42] 🔎 Iniciando contagem da pasta: 8.JACQUES (G:/My Drive/XABLAU/8.JACQUES)
+[2026-02-06 11:02:42] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-06 11:02:49] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-06 11:02:54] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-06 11:03:20] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-06 11:03:35] ✅ Contagem concluída: 8.JACQUES -> 1906 páginas
+[2026-02-06 11:03:57] ✅ Contagem concluída: 3.BRUNO -> 10175 páginas
+[2026-02-06 11:03:57] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-06 11:03:59] ✅ Contagem concluída: 5.CUSH -> 12793 páginas
+[2026-02-06 11:03:59] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-06 11:03:59] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-06 11:03:59] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-06 11:05:15] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 35532 páginas
+[2026-02-06 11:05:15] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-06 11:05:15] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-06 11:05:15] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-06 11:05:15] Enviando resultados para WhatsApp...
+[2026-02-06 11:05:15] ℹ️ Tamanho da mensagem: 526 caracteres
+[2026-02-06 11:05:34] ⏱️ Tempo de execução do WhatsApp: 19.05s
+[2026-02-06 11:05:34] ✅ Message sent successfully to WhatsApp!
+[2026-02-06 11:05:34] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 5055ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (532 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB025911E7CB6CBF56C60_174462209097938@lid chatId: 120363421676358028@g.us (took 2418ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 219ms)
+Total WhatsApp operation time: 2642ms
+[2026-02-08 00:58:07] Starting page count...
+[2026-02-08 00:58:07] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-08 00:58:07] 📁 Pastas detectadas para contagem: 9
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 4.MAYA (G:/My Drive/XABLAU/4.MAYA)
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 5.CUSH (G:/My Drive/XABLAU/5.CUSH)
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 6.ELIS (G:/My Drive/XABLAU/6.ELIS)
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 7.NICO (G:/My Drive/XABLAU/7.NICO)
+[2026-02-08 00:58:07] 🔎 Iniciando contagem da pasta: 8.JACQUES (G:/My Drive/XABLAU/8.JACQUES)
+[2026-02-08 00:58:07] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-08 00:58:13] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-08 00:58:17] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-08 00:58:41] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-08 00:58:54] ✅ Contagem concluída: 8.JACQUES -> 1906 páginas
+[2026-02-08 00:59:16] ✅ Contagem concluída: 3.BRUNO -> 10175 páginas
+[2026-02-08 00:59:16] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-08 00:59:20] ✅ Contagem concluída: 5.CUSH -> 12793 páginas
+[2026-02-08 00:59:20] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-08 00:59:20] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-08 00:59:20] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-08 01:00:28] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 35532 páginas
+[2026-02-09 09:59:24] Starting page count...
+[2026-02-09 09:59:24] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-09 09:59:24] 📁 Pastas detectadas para contagem: 9
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 4.MAYA (G:/My Drive/XABLAU/4.MAYA)
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 5.CUSH (G:/My Drive/XABLAU/5.CUSH)
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 6.ELIS (G:/My Drive/XABLAU/6.ELIS)
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 7.NICO (G:/My Drive/XABLAU/7.NICO)
+[2026-02-09 09:59:24] 🔎 Iniciando contagem da pasta: 8.JACQUES (G:/My Drive/XABLAU/8.JACQUES)
+[2026-02-09 09:59:24] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-09 09:59:29] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-09 09:59:33] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-09 09:59:54] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-09 10:00:07] ✅ Contagem concluída: 8.JACQUES -> 1906 páginas
+[2026-02-09 10:00:28] ✅ Contagem concluída: 3.BRUNO -> 10175 páginas
+[2026-02-09 10:00:29] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-09 10:00:32] ✅ Contagem concluída: 5.CUSH -> 12793 páginas
+[2026-02-09 10:00:32] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-09 10:00:32] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-09 10:00:32] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-09 10:01:41] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 35532 páginas
+[2026-02-10 10:23:49] Starting page count...
+[2026-02-10 10:23:49] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-10 10:23:49] 📁 Pastas detectadas para contagem: 9
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 4.MAYA (G:/My Drive/XABLAU/4.MAYA)
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 5.CUSH (G:/My Drive/XABLAU/5.CUSH)
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 6.ELIS (G:/My Drive/XABLAU/6.ELIS)
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 7.NICO (G:/My Drive/XABLAU/7.NICO)
+[2026-02-10 10:23:49] 🔎 Iniciando contagem da pasta: 8.JACQUES (G:/My Drive/XABLAU/8.JACQUES)
+[2026-02-10 10:23:49] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-10 10:23:54] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-10 10:23:57] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-10 10:24:19] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-10 10:24:32] ✅ Contagem concluída: 8.JACQUES -> 1906 páginas
+[2026-02-10 10:24:53] ✅ Contagem concluída: 3.BRUNO -> 10175 páginas
+[2026-02-10 10:24:53] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-10 10:24:59] ✅ Contagem concluída: 5.CUSH -> 14110 páginas
+[2026-02-10 10:24:59] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-10 10:24:59] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-10 10:24:59] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-10 10:26:08] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 35532 páginas
+[2026-02-10 10:26:08] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-10 10:26:08] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-10 10:26:08] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-10 10:26:08] Enviando resultados para WhatsApp...
+[2026-02-10 10:26:08] ℹ️ Tamanho da mensagem: 526 caracteres
+[2026-02-10 10:26:24] ⏱️ Tempo de execução do WhatsApp: 16.08s
+[2026-02-10 10:26:24] ✅ Message sent successfully to WhatsApp!
+[2026-02-10 10:26:24] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 4514ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (532 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB04627C40413383C239D_174462209097938@lid chatId: 120363421676358028@g.us (took 3377ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 249ms)
+Total WhatsApp operation time: 3631ms
+[2026-02-10 19:21:47] Starting page count...
+[2026-02-10 19:21:47] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-10 19:21:47] 📁 Pastas detectadas para contagem: 9
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 4.MAYA (G:/My Drive/XABLAU/4.MAYA)
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 5.CUSH (G:/My Drive/XABLAU/5.CUSH)
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 6.ELIS (G:/My Drive/XABLAU/6.ELIS)
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 7.NICO (G:/My Drive/XABLAU/7.NICO)
+[2026-02-10 19:21:47] 🔎 Iniciando contagem da pasta: 8.JACQUES (G:/My Drive/XABLAU/8.JACQUES)
+[2026-02-10 19:21:47] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-10 19:21:52] ✅ Contagem concluída: 1.LEIANES -> 782 páginas
+[2026-02-10 19:21:56] ✅ Contagem concluída: 6.ELIS -> 607 páginas
+[2026-02-10 19:22:14] ✅ Contagem concluída: 5.CUSH -> 4406 páginas
+[2026-02-10 19:22:18] ✅ Contagem concluída: 7.NICO -> 3242 páginas
+[2026-02-10 19:22:26] ✅ Contagem concluída: 8.JACQUES -> 1906 páginas
+[2026-02-10 19:22:44] ✅ Contagem concluída: 3.BRUNO -> 10175 páginas
+[2026-02-10 19:22:44] ✅ Contagem concluída: 2.EROS -> 10011 páginas
+[2026-02-10 19:22:44] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-10 19:22:44] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-10 19:22:44] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-10 19:24:03] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 35532 páginas
+[2026-02-10 19:24:03] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-10 19:24:03] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-10 19:24:03] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-10 19:24:03] Enviando resultados para WhatsApp...
+[2026-02-10 19:24:03] ℹ️ Tamanho da mensagem: 525 caracteres
+[2026-02-10 19:24:18] ⏱️ Tempo de execução do WhatsApp: 15.64s
+[2026-02-10 19:24:18] ✅ Message sent successfully to WhatsApp!
+[2026-02-10 19:24:18] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 4396ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (531 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB03A9DDF6E34AD0AFF6B_174462209097938@lid chatId: 120363421676358028@g.us (took 2160ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 245ms)
+Total WhatsApp operation time: 2410ms
+[2026-02-11 13:35:07] Starting page count...
+[2026-02-11 13:35:07] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 13:35:07] 📁 Pastas detectadas para contagem: 9
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 4.MAYA (G:/My Drive/XABLAU/4.MAYA)
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 5.CUSH (G:/My Drive/XABLAU/5.CUSH)
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 6.ELIS (G:/My Drive/XABLAU/6.ELIS)
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 7.NICO (G:/My Drive/XABLAU/7.NICO)
+[2026-02-11 13:35:07] 🔎 Iniciando contagem da pasta: 8.JACQUES (G:/My Drive/XABLAU/8.JACQUES)
+[2026-02-11 13:35:07] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 13:35:07] ✅ Contagem concluída: 2.EROS -> 0 páginas
+[2026-02-11 13:35:07] ✅ Contagem concluída: 4.MAYA -> 0 páginas
+[2026-02-11 13:35:07] ✅ Contagem concluída: 6.ELIS -> 0 páginas
+[2026-02-11 13:35:07] ✅ Contagem concluída: 7.NICO -> 0 páginas
+[2026-02-11 13:35:13] ✅ Contagem concluída: 3.BRUNO -> 884 páginas
+[2026-02-11 13:35:16] ✅ Contagem concluída: 8.JACQUES -> 1144 páginas
+[2026-02-11 13:35:23] ✅ Contagem concluída: 5.CUSH -> 4406 páginas
+[2026-02-11 13:35:23] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/9.VICTORIA\1.RENOMEANDO)
+[2026-02-11 13:35:23] 🔎 Iniciando contagem da pasta VICTORIA: 9.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/9.VICTORIA\2.RENOMEADOS)
+[2026-02-11 13:35:23] ✅ Contagem VICTORIA concluída: 9.VICTORIA/1.RENOMEANDO -> 0 páginas
+[2026-02-11 13:36:39] ✅ Contagem VICTORIA concluída: 9.VICTORIA/2.RENOMEADOS -> 35532 páginas
+[2026-02-11 13:36:39] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-11 13:36:39] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-11 13:36:39] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-11 13:36:39] Enviando resultados para WhatsApp...
+[2026-02-11 13:36:39] ℹ️ Tamanho da mensagem: 664 caracteres
+[2026-02-11 13:36:56] ⏱️ Tempo de execução do WhatsApp: 17.32s
+[2026-02-11 13:36:56] ✅ Message sent successfully to WhatsApp!
+[2026-02-11 13:36:56] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 4863ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (670 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0F5045ED53D2FCD6CC1_174462209097938@lid chatId: 120363421676358028@g.us (took 6693ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 274ms)
+Total WhatsApp operation time: 6972ms
+[2026-02-11 13:57:49] Starting page count...
+[2026-02-11 13:57:49] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 13:57:49] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 13:57:49] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 13:57:49] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 13:57:49] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 13:57:49] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 13:57:49] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 13:57:49] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 13:57:49] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 13:57:49] ✅ Contagem concluída: 2.EROS -> 0 páginas
+[2026-02-11 13:57:49] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 13:57:49] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 13:57:49] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 13:57:55] ✅ Contagem concluída: 3.BRUNO -> 884 páginas
+[2026-02-11 13:57:57] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 13:58:05] ✅ Contagem concluída: 4.CUSH -> 4406 páginas
+[2026-02-11 13:58:05] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 13:58:05] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 13:58:05] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 13:58:13] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 13:58:13] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-11 13:58:13] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-11 13:58:13] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-11 13:58:13] Enviando resultados para WhatsApp...
+[2026-02-11 13:58:13] ℹ️ Tamanho da mensagem: 511 caracteres
+[2026-02-11 13:58:33] ⏱️ Tempo de execução do WhatsApp: 20.57s
+[2026-02-11 13:58:33] ✅ Message sent successfully to WhatsApp!
+[2026-02-11 13:58:33] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 5923ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (517 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB06BC086E99ABE1517BB_174462209097938@lid chatId: 120363421676358028@g.us (took 2959ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 234ms)
+Total WhatsApp operation time: 3199ms
+[2026-02-11 14:53:33] Starting page count...
+[2026-02-11 14:53:33] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 14:53:33] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 14:53:33] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 14:53:33] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 14:53:33] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 14:53:33] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 14:53:33] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 14:53:33] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 14:53:33] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 14:53:33] ✅ Contagem concluída: 2.EROS -> 0 páginas
+[2026-02-11 14:53:33] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 14:53:33] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 14:53:33] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 14:53:39] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 14:53:40] ✅ Contagem concluída: 3.BRUNO -> 2056 páginas
+[2026-02-11 14:53:46] ✅ Contagem concluída: 4.CUSH -> 4406 páginas
+[2026-02-11 14:53:46] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 14:53:46] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 14:53:46] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 14:53:59] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 14:53:59] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-11 14:53:59] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-11 14:53:59] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-11 14:53:59] Enviando resultados para WhatsApp...
+[2026-02-11 14:53:59] ℹ️ Tamanho da mensagem: 492 caracteres
+[2026-02-11 14:54:13] ⏱️ Tempo de execução do WhatsApp: 14.06s
+[2026-02-11 14:54:13] ✅ Message sent successfully to WhatsApp!
+[2026-02-11 14:54:13] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3800ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (498 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0823B0BFFCA226C7A82_174462209097938@lid chatId: 120363421676358028@g.us (took 2396ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 271ms)
+Total WhatsApp operation time: 2673ms
+[2026-02-11 15:01:39] Starting page count...
+[2026-02-11 15:01:39] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 15:01:39] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 15:01:39] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 15:01:39] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 15:01:39] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 15:01:39] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 15:01:39] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 15:01:39] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 15:01:39] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 15:01:39] ✅ Contagem concluída: 2.EROS -> 0 páginas
+[2026-02-11 15:01:39] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 15:01:39] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 15:01:39] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 15:01:40] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 15:01:40] ✅ Contagem concluída: 3.BRUNO -> 2056 páginas
+[2026-02-11 15:01:42] ✅ Contagem concluída: 4.CUSH -> 4406 páginas
+[2026-02-11 15:01:42] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 15:01:42] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 15:01:42] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 15:01:46] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 17:19:45] Starting page count...
+[2026-02-11 17:19:45] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 17:19:45] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 17:19:45] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 17:19:45] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 17:19:45] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 17:19:45] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 17:19:45] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 17:19:45] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 17:19:45] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 17:19:45] ✅ Contagem concluída: 2.EROS -> 0 páginas
+[2026-02-11 17:19:45] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 17:19:45] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 17:19:45] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 17:19:46] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 17:19:47] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-11 17:19:48] ✅ Contagem concluída: 4.CUSH -> 4406 páginas
+[2026-02-11 17:19:48] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 17:19:48] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 17:19:48] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 17:19:53] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 17:19:53] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-11 17:19:53] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-11 17:19:53] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-11 17:19:53] Enviando resultados para WhatsApp...
+[2026-02-11 17:19:53] ℹ️ Tamanho da mensagem: 490 caracteres
+[2026-02-11 17:20:00] ⏱️ Tempo de execução do WhatsApp: 7.15s
+[2026-02-11 17:20:00] ✅ Message sent successfully to WhatsApp!
+[2026-02-11 17:20:00] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3402ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (496 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0F0C95C8974865264FC_174462209097938@lid chatId: 120363421676358028@g.us (took 1617ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 233ms)
+Total WhatsApp operation time: 1854ms
+[2026-02-11 17:24:46] Starting page count...
+[2026-02-11 17:24:46] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 17:24:46] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 17:24:46] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 17:24:46] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 17:24:46] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 17:24:46] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 17:24:46] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 17:24:46] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 17:24:46] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 17:24:46] ✅ Contagem concluída: 2.EROS -> 0 páginas
+[2026-02-11 17:24:46] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 17:24:46] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 17:24:46] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 17:24:47] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 17:24:48] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-11 17:24:49] ✅ Contagem concluída: 4.CUSH -> 4406 páginas
+[2026-02-11 17:24:49] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 17:24:49] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 17:24:49] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 17:24:54] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 18:26:47] Starting page count...
+[2026-02-11 18:26:47] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 18:26:47] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 18:26:47] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 18:26:47] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 18:26:47] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 18:26:47] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 18:26:47] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 18:26:47] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 18:26:47] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 18:26:47] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 18:26:47] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 18:26:47] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 18:26:48] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-11 18:26:48] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 18:26:49] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-11 18:26:50] ✅ Contagem concluída: 4.CUSH -> 4406 páginas
+[2026-02-11 18:26:50] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 18:26:50] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 18:26:50] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 18:26:55] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 18:26:55] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-11 18:26:55] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-11 18:26:55] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-11 18:26:55] Enviando resultados para WhatsApp...
+[2026-02-11 18:26:55] ℹ️ Tamanho da mensagem: 494 caracteres
+[2026-02-11 18:27:01] ⏱️ Tempo de execução do WhatsApp: 6.94s
+[2026-02-11 18:27:01] ✅ Message sent successfully to WhatsApp!
+[2026-02-11 18:27:01] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 2800ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (500 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0A628385E0C135BAB52_174462209097938@lid chatId: 120363421676358028@g.us (took 2373ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 243ms)
+Total WhatsApp operation time: 2620ms
+[2026-02-11 19:06:56] Starting page count...
+[2026-02-11 19:06:56] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 19:06:56] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 19:06:56] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 19:06:56] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 19:06:56] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 19:06:56] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 19:06:56] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 19:06:56] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 19:06:56] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 19:06:56] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 19:06:56] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 19:06:56] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 19:06:57] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-11 19:06:58] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 19:06:59] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-11 19:07:01] ✅ Contagem concluída: 4.CUSH -> 5443 páginas
+[2026-02-11 19:07:01] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 19:07:01] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 19:07:01] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 19:07:05] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 19:07:05] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-11 19:07:05] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-11 19:07:05] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-11 19:07:05] Enviando resultados para WhatsApp...
+[2026-02-11 19:07:05] ℹ️ Tamanho da mensagem: 495 caracteres
+[2026-02-11 19:07:11] ⏱️ Tempo de execução do WhatsApp: 6.29s
+[2026-02-11 19:07:11] ✅ Message sent successfully to WhatsApp!
+[2026-02-11 19:07:11] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 2707ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (501 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB052495CFD5BD93CF96B_174462209097938@lid chatId: 120363421676358028@g.us (took 1837ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 235ms)
+Total WhatsApp operation time: 2076ms
+[2026-02-11 19:11:01] Starting page count...
+[2026-02-11 19:11:01] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 19:11:01] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 19:11:01] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 19:11:01] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 19:11:01] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 19:11:01] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 19:11:01] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 19:11:01] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 19:11:01] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 19:11:01] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 19:11:01] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 19:11:01] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 19:11:01] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-11 19:11:02] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 19:11:03] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-11 19:11:05] ✅ Contagem concluída: 4.CUSH -> 5443 páginas
+[2026-02-11 19:11:05] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 19:11:05] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 19:11:05] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 19:11:08] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-11 23:55:18] Starting page count...
+[2026-02-11 23:55:18] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-11 23:55:18] 📁 Pastas detectadas para contagem: 8
+[2026-02-11 23:55:18] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-11 23:55:18] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-11 23:55:18] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-11 23:55:18] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-11 23:55:18] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-11 23:55:18] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-11 23:55:18] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-11 23:55:18] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-11 23:55:18] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-11 23:55:18] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-11 23:55:22] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-11 23:55:25] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-11 23:55:28] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-11 23:55:35] ✅ Contagem concluída: 4.CUSH -> 5443 páginas
+[2026-02-11 23:55:35] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-11 23:55:35] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-11 23:55:35] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-11 23:55:47] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-12 01:11:16] Starting page count...
+[2026-02-12 01:11:16] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-12 01:11:16] 📁 Pastas detectadas para contagem: 8
+[2026-02-12 01:11:16] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-12 01:11:16] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-12 01:11:16] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-12 01:11:16] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-12 01:11:16] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-12 01:11:16] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-12 01:11:16] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-12 01:11:16] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-12 01:11:16] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-12 01:11:16] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-12 01:11:21] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-12 01:11:24] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-12 01:11:27] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-12 01:11:34] ✅ Contagem concluída: 4.CUSH -> 5443 páginas
+[2026-02-12 01:11:34] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-12 01:11:34] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-12 01:11:34] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-12 01:11:46] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-12 11:00:13] Starting page count...
+[2026-02-12 11:00:13] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-12 11:00:13] 📁 Pastas detectadas para contagem: 8
+[2026-02-12 11:00:13] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-12 11:00:13] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-12 11:00:13] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-12 11:00:13] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-12 11:00:13] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-12 11:00:13] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-12 11:00:13] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-12 11:00:13] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-12 11:00:13] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-12 11:00:13] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-12 11:00:14] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-12 11:00:15] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-12 11:00:16] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-12 11:00:18] ✅ Contagem concluída: 4.CUSH -> 5443 páginas
+[2026-02-12 11:00:18] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-12 11:00:18] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-12 11:00:18] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-12 11:00:23] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-12 18:23:17] Starting page count...
+[2026-02-12 18:23:17] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-12 18:23:17] 📁 Pastas detectadas para contagem: 8
+[2026-02-12 18:23:17] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-12 18:23:17] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-12 18:23:17] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-12 18:23:17] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-12 18:23:17] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-12 18:23:17] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-12 18:23:17] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-12 18:23:17] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-12 18:23:17] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-12 18:23:17] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-12 18:23:22] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-12 18:23:25] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-12 18:23:28] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-12 18:23:34] ✅ Contagem concluída: 4.CUSH -> 6169 páginas
+[2026-02-12 18:23:34] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-12 18:23:34] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-12 18:23:34] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-12 18:23:46] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-12 18:23:46] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-12 18:23:46] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-12 18:23:46] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-12 18:23:46] Enviando resultados para WhatsApp...
+[2026-02-12 18:23:46] ℹ️ Tamanho da mensagem: 493 caracteres
+[2026-02-12 18:24:01] ⏱️ Tempo de execução do WhatsApp: 14.29s
+[2026-02-12 18:24:01] ✅ Message sent successfully to WhatsApp!
+[2026-02-12 18:24:01] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3677ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (499 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0C37819C64F2E9EE593_174462209097938@lid chatId: 120363421676358028@g.us (took 2393ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 268ms)
+Total WhatsApp operation time: 2667ms
+[2026-02-12 18:26:22] Starting page count...
+[2026-02-12 18:26:22] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-12 18:26:22] 📁 Pastas detectadas para contagem: 8
+[2026-02-12 18:26:22] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-12 18:26:22] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-12 18:26:22] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-12 18:26:22] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-12 18:26:22] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-12 18:26:22] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-12 18:26:22] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-12 18:26:22] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-12 18:26:22] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-12 18:26:22] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-12 18:26:22] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-12 18:26:23] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-12 18:26:24] ✅ Contagem concluída: 3.BRUNO -> 2404 páginas
+[2026-02-12 18:26:27] ✅ Contagem concluída: 4.CUSH -> 6929 páginas
+[2026-02-12 18:26:27] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-12 18:26:27] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-12 18:26:27] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-12 18:26:31] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-12 18:26:31] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-12 18:26:31] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-12 18:26:31] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-12 18:26:31] Enviando resultados para WhatsApp...
+[2026-02-12 18:26:31] ℹ️ Tamanho da mensagem: 493 caracteres
+[2026-02-12 18:26:37] ⏱️ Tempo de execução do WhatsApp: 6.73s
+[2026-02-12 18:26:37] ✅ Message sent successfully to WhatsApp!
+[2026-02-12 18:26:37] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 3083ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (499 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB033203A3C7A9CEA4DAD_174462209097938@lid chatId: 120363421676358028@g.us (took 1919ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 231ms)
+Total WhatsApp operation time: 2155ms
+[2026-02-12 19:25:15] Starting page count...
+[2026-02-12 19:25:15] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-12 19:25:15] 📁 Pastas detectadas para contagem: 8
+[2026-02-12 19:25:15] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-12 19:25:15] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-12 19:25:15] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-12 19:25:15] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-12 19:25:15] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-12 19:25:15] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-12 19:25:15] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-12 19:25:15] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-12 19:25:15] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-12 19:25:15] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-12 19:25:16] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-12 19:25:16] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-12 19:25:18] ✅ Contagem concluída: 3.BRUNO -> 2972 páginas
+[2026-02-12 19:25:20] ✅ Contagem concluída: 4.CUSH -> 6929 páginas
+[2026-02-12 19:25:20] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-12 19:25:20] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-12 19:25:20] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-12 19:25:24] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-12 19:25:24] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-12 19:25:24] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-12 19:25:24] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-12 19:25:24] Enviando resultados para WhatsApp...
+[2026-02-12 19:25:24] ℹ️ Tamanho da mensagem: 494 caracteres
+[2026-02-12 19:25:31] ⏱️ Tempo de execução do WhatsApp: 7.13s
+[2026-02-12 19:25:31] ✅ Message sent successfully to WhatsApp!
+[2026-02-12 19:25:31] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 2848ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (500 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB07C6043E1DD3FB8C3BC_174462209097938@lid chatId: 120363421676358028@g.us (took 2465ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 236ms)
+Total WhatsApp operation time: 2705ms
+[2026-02-13 14:16:41] Starting page count...
+[2026-02-13 14:16:41] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-13 14:16:41] 📁 Pastas detectadas para contagem: 8
+[2026-02-13 14:16:41] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-13 14:16:41] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-13 14:16:41] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-13 14:16:41] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-13 14:16:41] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-13 14:16:41] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-13 14:16:41] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-13 14:16:41] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-13 14:16:41] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-13 14:16:41] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-13 14:16:46] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-13 14:16:49] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-13 14:16:58] ✅ Contagem concluída: 3.BRUNO -> 4820 páginas
+[2026-02-13 14:17:03] ✅ Contagem concluída: 4.CUSH -> 6929 páginas
+[2026-02-13 14:17:03] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-13 14:17:03] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-13 14:17:03] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-13 14:17:16] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-13 14:17:16] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-13 14:17:16] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-13 14:17:16] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-13 14:17:16] Enviando resultados para WhatsApp...
+[2026-02-13 14:17:16] ℹ️ Tamanho da mensagem: 496 caracteres
+[2026-02-13 14:17:32] ⏱️ Tempo de execução do WhatsApp: 15.58s
+[2026-02-13 14:17:32] ✅ Message sent successfully to WhatsApp!
+[2026-02-13 14:17:32] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: d:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 5360ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (502 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0367404F1E0C39A42E6_174462209097938@lid chatId: 120363421676358028@g.us (took 2483ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 213ms)
+Total WhatsApp operation time: 2701ms
+[2026-02-13 20:24:49] Starting page count...
+[2026-02-13 20:24:49] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-13 20:24:49] 📁 Pastas detectadas para contagem: 8
+[2026-02-13 20:24:49] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-13 20:24:49] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-13 20:24:49] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-13 20:24:49] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-13 20:24:49] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-13 20:24:49] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-13 20:24:49] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-13 20:24:49] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-13 20:24:49] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-13 20:24:49] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-13 20:24:53] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-13 20:24:57] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-13 20:25:10] ✅ Contagem concluída: 3.BRUNO -> 5757 páginas
+[2026-02-13 20:25:13] ✅ Contagem concluída: 4.CUSH -> 6929 páginas
+[2026-02-13 20:25:13] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-13 20:25:13] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-13 20:25:13] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-13 20:25:26] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-13 20:25:26] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-13 20:25:26] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-13 20:25:26] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-13 20:25:26] Enviando resultados para WhatsApp...
+[2026-02-13 20:25:26] ℹ️ Tamanho da mensagem: 494 caracteres
+[2026-02-13 20:25:43] ⏱️ Tempo de execução do WhatsApp: 16.52s
+[2026-02-13 20:25:43] ✅ Message sent successfully to WhatsApp!
+[2026-02-13 20:25:43] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: d:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 6351ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (500 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB08A5870BA2EBE4F5021_174462209097938@lid chatId: 120363421676358028@g.us (took 2589ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 247ms)
+Total WhatsApp operation time: 2841ms
+[2026-02-15 14:11:46] Starting page count...
+[2026-02-15 14:11:46] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-15 14:11:46] 📁 Pastas detectadas para contagem: 8
+[2026-02-15 14:11:46] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-15 14:11:46] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-15 14:11:46] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-15 14:11:46] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-15 14:11:46] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-15 14:11:46] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-15 14:11:46] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-15 14:11:46] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-15 14:11:46] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-15 14:11:46] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-15 14:11:51] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-15 14:11:54] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-15 14:12:10] ✅ Contagem concluída: 3.BRUNO -> 5757 páginas
+[2026-02-15 14:12:13] ✅ Contagem concluída: 4.CUSH -> 6929 páginas
+[2026-02-15 14:12:13] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-15 14:12:13] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-15 14:12:13] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-15 14:12:25] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-17 12:26:49] Starting page count...
+[2026-02-17 12:26:49] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-17 12:26:49] 📁 Pastas detectadas para contagem: 8
+[2026-02-17 12:26:49] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-17 12:26:49] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-17 12:26:49] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-17 12:26:49] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-17 12:26:49] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-17 12:26:49] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-17 12:26:49] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-17 12:26:49] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-17 12:26:49] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-17 12:26:49] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-17 12:26:55] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-17 12:26:58] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-17 12:27:13] ✅ Contagem concluída: 3.BRUNO -> 5757 páginas
+[2026-02-17 12:27:17] ✅ Contagem concluída: 4.CUSH -> 6929 páginas
+[2026-02-17 12:27:17] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-17 12:27:17] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-17 12:27:17] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-17 12:27:34] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-17 17:58:17] Starting page count...
+[2026-02-17 17:58:17] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-17 17:58:17] 📁 Pastas detectadas para contagem: 8
+[2026-02-17 17:58:17] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-17 17:58:17] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-17 17:58:17] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-17 17:58:17] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-17 17:58:17] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-17 17:58:17] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-17 17:58:17] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-17 17:58:17] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-17 17:58:17] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-17 17:58:17] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-17 17:58:21] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-17 17:58:24] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-17 17:58:38] ✅ Contagem concluída: 3.BRUNO -> 5757 páginas
+[2026-02-17 17:58:42] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-17 17:58:42] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-17 17:58:42] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-17 17:58:42] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-17 17:58:54] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-17 17:58:54] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-17 17:58:54] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-17 17:58:54] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-17 17:58:54] Enviando resultados para WhatsApp...
+[2026-02-17 17:58:54] ℹ️ Tamanho da mensagem: 495 caracteres
+[2026-02-17 17:59:19] ⏱️ Tempo de execução do WhatsApp: 24.45s
+[2026-02-17 17:59:19] ✅ Message sent successfully to WhatsApp!
+[2026-02-17 17:59:19] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+✅ WhatsApp connected! (inicialização levou 9533ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (501 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0CB681109C256B2E209_174462209097938@lid chatId: 120363421676358028@g.us (took 6333ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 262ms)
+Total WhatsApp operation time: 6599ms
+[2026-02-17 18:01:23] Starting page count...
+[2026-02-17 18:01:23] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-17 18:01:23] 📁 Pastas detectadas para contagem: 8
+[2026-02-17 18:01:23] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-17 18:01:23] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-17 18:01:23] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-17 18:01:23] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-17 18:01:23] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-17 18:01:23] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-17 18:01:23] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-17 18:01:23] ✅ Contagem concluída: 1.LEIANES -> 0 páginas
+[2026-02-17 18:01:23] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-17 18:01:23] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-17 18:01:24] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-17 18:01:25] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-17 18:01:28] ✅ Contagem concluída: 3.BRUNO -> 5757 páginas
+[2026-02-17 18:01:30] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-17 18:01:30] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-17 18:01:30] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-17 18:01:30] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-17 18:01:34] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-17 20:45:40] Starting page count...
+[2026-02-17 20:45:40] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-17 20:45:40] 📁 Pastas detectadas para contagem: 8
+[2026-02-17 20:45:40] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-17 20:45:40] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-17 20:45:40] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-17 20:45:40] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-17 20:45:40] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-17 20:45:40] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-17 20:45:40] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-17 20:45:43] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-17 20:45:43] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-17 20:45:43] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-17 20:45:44] ✅ Contagem concluída: 1.LEIANES -> 1160 páginas
+[2026-02-17 20:45:49] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-17 20:45:57] ✅ Contagem concluída: 3.BRUNO -> 5757 páginas
+[2026-02-17 20:45:59] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-17 20:45:59] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-17 20:45:59] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-17 20:45:59] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-17 20:46:04] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-17 20:46:04] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-17 20:46:04] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-17 20:46:04] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-17 20:46:04] Enviando resultados para WhatsApp...
+[2026-02-17 20:46:04] ℹ️ Tamanho da mensagem: 501 caracteres
+[2026-02-17 20:48:24] ❌ Timeout ao enviar mensagem WhatsApp após 140.05s (limite: 140s)
+[2026-02-17 20:48:24] ⚠️ Possíveis causas: WhatsApp Web desconectado, necessidade de reautenticação, ou conexão lenta
+[2026-02-18 11:55:48] Starting page count...
+[2026-02-18 11:55:48] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-18 11:55:48] 📁 Pastas detectadas para contagem: 8
+[2026-02-18 11:55:48] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-18 11:55:48] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-18 11:55:48] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-18 11:55:48] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-18 11:55:48] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-18 11:55:48] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-18 11:55:48] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-18 11:55:53] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-18 11:55:53] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-18 11:55:53] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-18 11:55:55] ✅ Contagem concluída: 1.LEIANES -> 1160 páginas
+[2026-02-18 11:55:59] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-18 11:56:12] ✅ Contagem concluída: 3.BRUNO -> 5757 páginas
+[2026-02-18 11:56:18] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-18 11:56:18] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-18 11:56:18] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-18 11:56:18] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-18 11:56:30] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-18 12:22:35] Starting page count...
+[2026-02-18 12:22:35] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-18 12:22:35] 📁 Pastas detectadas para contagem: 8
+[2026-02-18 12:22:35] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-18 12:22:35] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-18 12:22:35] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-18 12:22:35] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-18 12:22:35] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-18 12:22:35] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-18 12:22:35] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-18 12:22:39] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-18 12:22:39] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-18 12:22:39] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-18 12:22:41] ✅ Contagem concluída: 1.LEIANES -> 1160 páginas
+[2026-02-18 12:22:46] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-18 12:22:59] ✅ Contagem concluída: 3.BRUNO -> 6681 páginas
+[2026-02-18 12:23:03] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-18 12:23:03] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-18 12:23:03] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-18 12:23:03] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-18 12:23:15] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-18 12:23:15] ✅ Mensagem liberada para envio: Message differs and cooldown passed
+[2026-02-18 12:23:15] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-18 12:23:15] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-18 12:23:15] Enviando resultados para WhatsApp...
+[2026-02-18 12:23:15] ℹ️ Tamanho da mensagem: 497 caracteres
+[2026-02-18 12:25:35] ❌ Timeout ao enviar mensagem WhatsApp após 140.03s (limite: 140s)
+[2026-02-18 12:25:35] ⚠️ Possíveis causas: WhatsApp Web desconectado, necessidade de reautenticação, ou conexão lenta
+[2026-02-18 13:02:14] Starting page count...
+[2026-02-18 13:02:14] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-18 13:02:14] 📁 Pastas detectadas para contagem: 8
+[2026-02-18 13:02:14] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-18 13:02:14] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-18 13:02:14] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-18 13:02:14] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-18 13:02:14] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-18 13:02:14] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-18 13:02:14] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-18 13:02:15] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-18 13:02:15] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-18 13:02:15] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-18 13:02:16] ✅ Contagem concluída: 1.LEIANES -> 1160 páginas
+[2026-02-18 13:02:17] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-18 13:02:21] ✅ Contagem concluída: 3.BRUNO -> 6681 páginas
+[2026-02-18 13:02:23] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-18 13:02:23] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-18 13:02:23] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-18 13:02:23] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-18 13:02:27] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-18 13:02:55] Starting page count...
+[2026-02-18 13:02:55] 🔧 Modo FORCE ativado via linha de comando
+[2026-02-18 13:02:55] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-18 13:02:55] 📁 Pastas detectadas para contagem: 8
+[2026-02-18 13:02:55] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-18 13:02:55] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-18 13:02:55] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-18 13:02:55] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-18 13:02:55] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-18 13:02:55] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-18 13:02:55] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-18 13:02:55] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-18 13:02:55] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-18 13:02:55] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-18 13:02:56] ✅ Contagem concluída: 1.LEIANES -> 1160 páginas
+[2026-02-18 13:02:57] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-18 13:03:00] ✅ Contagem concluída: 3.BRUNO -> 6681 páginas
+[2026-02-18 13:03:01] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-18 13:03:01] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-18 13:03:01] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-18 13:03:01] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-18 13:03:05] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-18 13:03:05] 🔧 Modo FORCE ativado: ignorando verificação de cooldown e mensagem repetida
+[2026-02-18 13:03:05] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-18 13:03:05] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-18 13:03:05] Enviando resultados para WhatsApp...
+[2026-02-18 13:03:05] ℹ️ Tamanho da mensagem: 394 caracteres
+[2026-02-18 13:05:25] ❌ Timeout ao enviar mensagem WhatsApp após 140.02s (limite: 140s)
+[2026-02-18 13:05:25] ⚠️ Possíveis causas: WhatsApp Web desconectado, necessidade de reautenticação, ou conexão lenta
+[2026-02-18 13:07:29] Starting page count...
+[2026-02-18 13:07:29] 🔧 Modo FORCE ativado via linha de comando
+[2026-02-18 13:07:29] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-18 13:07:29] 📁 Pastas detectadas para contagem: 8
+[2026-02-18 13:07:29] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-18 13:07:29] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-18 13:07:29] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-18 13:07:29] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-18 13:07:29] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-18 13:07:29] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-18 13:07:29] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-18 13:07:30] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-18 13:07:30] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-18 13:07:30] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-18 13:07:31] ✅ Contagem concluída: 1.LEIANES -> 1160 páginas
+[2026-02-18 13:07:31] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-18 13:07:34] ✅ Contagem concluída: 3.BRUNO -> 6681 páginas
+[2026-02-18 13:07:36] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-18 13:07:36] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-18 13:07:36] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-18 13:07:36] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-18 13:07:39] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-18 13:07:39] 🔧 Modo FORCE ativado: ignorando verificação de cooldown e mensagem repetida
+[2026-02-18 13:07:39] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-18 13:07:39] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-18 13:07:39] Enviando resultados para WhatsApp...
+[2026-02-18 13:07:39] ℹ️ Tamanho da mensagem: 394 caracteres
+[2026-02-18 13:09:59] ❌ Timeout ao enviar mensagem WhatsApp após 140.02s (limite: 140s)
+[2026-02-18 13:09:59] ⚠️ Possíveis causas: WhatsApp Web desconectado, necessidade de reautenticação, ou conexão lenta
+[2026-02-18 13:12:10] Starting page count...
+[2026-02-18 13:12:10] 🔧 Modo FORCE ativado via linha de comando
+[2026-02-18 13:12:10] 📂 Pasta raiz configurada para contagem: G:/My Drive/XABLAU/
+[2026-02-18 13:12:10] 📁 Pastas detectadas para contagem: 8
+[2026-02-18 13:12:10] 🔎 Iniciando contagem da pasta: 3.BRUNO (G:/My Drive/XABLAU/3.BRUNO)
+[2026-02-18 13:12:10] 🔎 Iniciando contagem da pasta: 1.LEIANES (G:/My Drive/XABLAU/1.LEIANES)
+[2026-02-18 13:12:10] 🔎 Iniciando contagem da pasta: 2.EROS (G:/My Drive/XABLAU/2.EROS)
+[2026-02-18 13:12:10] 🔎 Iniciando contagem da pasta: 4.CUSH (G:/My Drive/XABLAU/4.CUSH)
+[2026-02-18 13:12:10] 🔎 Iniciando contagem da pasta: 5.ELIS (G:/My Drive/XABLAU/5.ELIS)
+[2026-02-18 13:12:10] 🔎 Iniciando contagem da pasta: 6.NICO (G:/My Drive/XABLAU/6.NICO)
+[2026-02-18 13:12:10] 🔎 Iniciando contagem da pasta: 7.JACQUES (G:/My Drive/XABLAU/7.JACQUES)
+[2026-02-18 13:12:11] ✅ Contagem concluída: 2.EROS -> 1324 páginas
+[2026-02-18 13:12:11] ✅ Contagem concluída: 5.ELIS -> 0 páginas
+[2026-02-18 13:12:11] ✅ Contagem concluída: 6.NICO -> 0 páginas
+[2026-02-18 13:12:12] ✅ Contagem concluída: 1.LEIANES -> 1160 páginas
+[2026-02-18 13:12:12] ✅ Contagem concluída: 7.JACQUES -> 1144 páginas
+[2026-02-18 13:12:16] ✅ Contagem concluída: 3.BRUNO -> 6681 páginas
+[2026-02-18 13:12:17] ✅ Contagem concluída: 4.CUSH -> 8507 páginas
+[2026-02-18 13:12:17] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/1.RENOMEANDO (G:/My Drive/XABLAU/8.VICTORIA\1.RENOMEANDO)
+[2026-02-18 13:12:17] 🔎 Iniciando contagem da pasta VICTORIA: 8.VICTORIA/2.RENOMEADOS (G:/My Drive/XABLAU/8.VICTORIA\2.RENOMEADOS)
+[2026-02-18 13:12:17] ✅ Contagem VICTORIA concluída: 8.VICTORIA/2.RENOMEADOS -> 0 páginas
+[2026-02-18 13:12:21] ✅ Contagem VICTORIA concluída: 8.VICTORIA/1.RENOMEANDO -> 6434 páginas
+[2026-02-18 13:12:21] 🔧 Modo FORCE ativado: ignorando verificação de cooldown e mensagem repetida
+[2026-02-18 13:12:21] 📨 Destino WhatsApp: tipo=group alvo=XABLAU UPDATES
+[2026-02-18 13:12:21] ⏱️ Timeout configurado: 140s (inicialização: 60s + mensagem: 30s + ACK: 20s + buffer: 30s)
+[2026-02-18 13:12:21] Enviando resultados para WhatsApp...
+[2026-02-18 13:12:21] ℹ️ Tamanho da mensagem: 394 caracteres
+[2026-02-18 13:12:25] ⏱️ Tempo de execução do WhatsApp: 4.40s
+[2026-02-18 13:12:25] ✅ Message sent successfully to WhatsApp!
+[2026-02-18 13:12:25] ℹ️ Saída do envio: Initializing WhatsApp client...
+📁 Auth directory: D:\Trampo\xablau\XABLAU PROJECT\.wwebjs_auth
+✅ Auth directory exists with 1 file(s)
+   Files: session
+📱 Carregando WhatsApp Web: 95% - WhatsApp
+📱 Carregando WhatsApp Web: 99% - WhatsApp
+✅ WhatsApp connected! (inicialização levou 2738ms)
+Looking for group: XABLAU UPDATES
+Sending message to group: XABLAU UPDATES (id: 120363421676358028@g.us)
+Sending message (399 characters)...
+Message sent successfully! msgId: true_120363421676358028@g.us_3EB0C35A9CFDD7ED34E695_174462209097938@lid chatId: 120363421676358028@g.us (took 18ms)
+Waiting for delivery ACK...
+Ack de entrega recebido (pelo menos chegou ao servidor). (took 244ms)
+Total WhatsApp operation time: 268ms

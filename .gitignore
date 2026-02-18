@@ -20,3 +20,9 @@ env/
 
 # history plugin
 .history/
+
+#pagecounter.log
+pagecounter.log
+
+#pagecount_history.json
+pagecount_history.json

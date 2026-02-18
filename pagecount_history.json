@@ -1,18 +1,17 @@
 {
-  "timestamp": "2026-02-01T22:19:26.580323",
+  "timestamp": "2026-02-18T13:12:21.298590",
   "folder_pages_normal": {
-    "4.MAYA": 0,
-    "1.LEIANES": 782,
-    "6.ELIS": 607,
-    "7.NICO": 2792,
-    "8.JACQUES": 762,
-    "3.BRUNO": 9291,
-    "2.EROS": 10011,
-    "5.CUSH": 10575
+    "2.EROS": 1324,
+    "5.ELIS": 0,
+    "6.NICO": 0,
+    "1.LEIANES": 1160,
+    "7.JACQUES": 1144,
+    "3.BRUNO": 6681,
+    "4.CUSH": 8507
   },
   "folder_pages_victoria": {
-    "9.VICTORIA/1.RENOMEANDO": 5202,
-    "9.VICTORIA/2.RENOMEADOS": 29051
+    "8.VICTORIA/2.RENOMEADOS": 0,
+    "8.VICTORIA/1.RENOMEANDO": 6434
   },
-  "total_pages_before_victoria": 34820
+  "total_pages_before_victoria": 18816
 }
